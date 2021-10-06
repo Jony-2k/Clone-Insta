@@ -1,6 +1,6 @@
-# Clone-Insta
+Clone-Insta
 
-#Recriando a página inicial do Instagram
+Recriando a página inicial do Instagram
 
 Projeto Clone insta.
 
