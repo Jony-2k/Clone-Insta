@@ -1,9 +1,3 @@
-Clone-Insta
-
-Recriando a página inicial do Instagram
-
-Projeto Clone insta.
-
-Nesse projeto a página de login do Instagram foi reconstruida. 
-
-Foi usado CSS com Flexbox.
+Exercício proposto pela DIO - Digital Innovation One. 
+O Projeto foi batizado de Clone-Insta.
+É a página inicial do Instagram recriada com CSS e Flexbox.
